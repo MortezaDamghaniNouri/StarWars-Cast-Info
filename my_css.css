@@ -1,0 +1,67 @@
+body {
+    background-image: url("Image4.jpg");
+    background-size: 100% 100%;
+    align-items: center;
+    background-attachment: fixed;
+    display: flex;
+
+
+
+
+
+}
+
+#main_text {
+    display: block;
+    width: 50%;
+    height: 60%;
+    margin-right: 25%;
+    margin-left: 25%;
+    background-color: white;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    overflow: scroll;
+
+}
+#buttons_bar {
+    display: inline-flex;
+    width: 100%;
+    margin-top: 15%;
+
+
+}
+#next_button {
+    display: block;
+    margin-left: 30%;
+    width: 30%;
+    margin-right: 5%;
+
+
+}
+#previous_button {
+    display: block;
+    width: 30%;
+    margin-left: 5%;
+
+}
+.list_item {
+    color: blue;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
